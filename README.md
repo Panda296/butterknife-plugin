@@ -7,7 +7,7 @@
  
  - 简书 [dongjunkun](http://www.jianshu.com/users/f07458c1a8f3/latest_articles)
 
-![演示](http://blog.csdn.net/djk_dong/article/details/47825095)
+<img src="http://blog.csdn.net/djk_dong/article/details/47825095"/>
 
 # Thinks
  - [ButterKnifeZelezny](https://github.com/avast/android-butterknife-zelezny)
